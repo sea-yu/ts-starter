@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "outDir": "dist",
+    "allowJs": false,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "removeComments": true,
+    "paths": {
+      "@/*": ["src/*"],
+    },
+  },
+  "exclude": ["node_modules", "dist"]
+}
