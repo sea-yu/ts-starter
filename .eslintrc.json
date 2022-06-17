@@ -1,4 +1,5 @@
 {
+    "extends": "@antfu",
     "parser": "@typescript-eslint/parser",
     "parserOptions": {
         "sourceType": "module"
@@ -22,6 +23,7 @@
         "semi": [
             "error",
             "never"
-        ]
+        ],
+        "no-console": "off"
     }
 }
