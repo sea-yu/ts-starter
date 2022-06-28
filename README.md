@@ -1,5 +1,5 @@
 ## typescript starter 
-[Chinese](./README_ZH-CN.md )
+[中文](./README_ZH-CN.md )
 
 A simple repository to quickly start a typescript project for me
 

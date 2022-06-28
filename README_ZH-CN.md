@@ -4,5 +4,5 @@
 你可以这样使用它
 ```shell
 npm i -g degit # 如果你之前没安装过它
-degit https://github.com/sea-yu/ts-starter projectName
+degit https://github.com/sea-yu/ts-starter yourProjectName
 ```
