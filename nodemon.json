@@ -1,0 +1,6 @@
+{
+  "restartable": "r",
+  "watch": ["src/**", "nodemon.json"],
+  "ext": "ts,json",
+  "exec": "tsx src/index.ts"
+}
